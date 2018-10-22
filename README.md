@@ -1,5 +1,5 @@
-# Econometria Avançada - D2 - 29/10/2018
-* Perguntas e respostas dos itens de 1 à ;
+# Econometria Avançada - D2 - 01/11/2018
+* Perguntas e respostas dos itens de 1 à 8;
 * Tabela utilizada para fazer os itens;
 * Gráficos.
 
