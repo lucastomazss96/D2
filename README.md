@@ -4,6 +4,5 @@
 * Gráficos.
 
 ## Link para a tabela: https://coinmarketcap.com/
-* Criptomoeda utilizada: Neo - Posição 15 (18/10/2018)
-
-* Resumo da criptomoeda: https://guiadobitcoin.com.br/o-que-e-neo/
+## Criptomoeda utilizada: Neo - Posição 15 (18/10/2018)
+## Resumo da criptomoeda: https://guiadobitcoin.com.br/o-que-e-neo/
